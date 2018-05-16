@@ -4,7 +4,7 @@ valac --pkg gio-2.0 ltweb.vala -o ltweb
 2 clinet 编译
 gcc http.c -o http
 
-3 在server目录下建立public目录并放上测试文件
+3 在server目录下建立public目录并放上测试文件data.txt
 
 4 测试 ./http data.txt
 
